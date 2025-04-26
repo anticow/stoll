@@ -1,0 +1,10 @@
+ollama
+langchain
+langchain-community
+langchain-experimental
+langchain-ollama
+pandas
+openpyxl
+tabulate
+streamlit
+audio-recorder-streamlit
